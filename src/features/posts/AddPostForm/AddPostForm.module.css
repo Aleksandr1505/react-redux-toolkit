@@ -1,0 +1,15 @@
+.addPostContainer {
+  margin: 0 auto;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.addPostForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 500px;
+  min-height: 300px;
+}

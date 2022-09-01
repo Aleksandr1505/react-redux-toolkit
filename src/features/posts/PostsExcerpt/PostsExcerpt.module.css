@@ -1,0 +1,10 @@
+.post {
+  width: 400px;
+  border: 1px solid #000;
+  padding: 12px;
+  text-align: center;
+}
+
+.post:not(:last-child) {
+  margin-bottom: 16px;
+}
