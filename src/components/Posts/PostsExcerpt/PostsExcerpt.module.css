@@ -8,3 +8,11 @@
 .post:not(:last-child) {
   margin-bottom: 16px;
 }
+
+.authorAndTimeContainer {
+  margin: 14px auto;
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  align-items: center;
+}
